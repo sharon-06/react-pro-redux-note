@@ -38,12 +38,14 @@ npm install redux react-redux
 ```
 
 Folder Structure to be used for this application:
+
+Overall folder structure:
 ![Image description](https://i1.faceprep.in/ProGrad/redux-5.png)
 
-
+Redux elements
 ![Image description](https://i1.faceprep.in/ProGrad/redux-6.png)
 
-
+React Components
 ![Image description](https://i1.faceprep.in/ProGrad/redux-7.png)
 
 ### PROGRESSION 1 | PARENT COMPONENT
