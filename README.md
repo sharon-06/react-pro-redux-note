@@ -52,9 +52,13 @@ In this progression, the data what you fetch in the form should be sent to redux
 
 Please refer the output below:
 ![Image description](https://i1.faceprep.in/ProGrad/redux-2.png)
+![Image description](https://i1.faceprep.in/ProGrad/redux-3.png)
+
 
 ### PROGRESSION 4 | DELETE 
-In this iteration provide an option to delete 
+In this iteration provide an option to delete the note. 
+![Image description](https://i1.faceprep.in/ProGrad/redux-4.png)
+
 
 ## Submission
 
