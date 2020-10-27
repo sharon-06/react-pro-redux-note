@@ -37,20 +37,24 @@ To install redux
 npm install redux react-redux 
 ```
 
-Folder Structure to be used for this application:
+### PROGRESSION 1 | FORM AND DISPLAY COMPONENT
 
-Overall folder structure:
-![Image description](https://i1.faceprep.in/ProGrad/redux-5.png)
+Please see the screenshot for your reference.
+![Image description](https://i1.faceprep.in/ProGrad/redux-1.png)
 
-Redux elements
-![Image description](https://i1.faceprep.in/ProGrad/redux-6.png)
+### PROGRESSION 2 |  STORE ACTION REDUCER
+In this progression, you should create a redux store to store the state. Then create the action for the particular event to happen and based on the action create the reducer.
 
-React Components
-![Image description](https://i1.faceprep.in/ProGrad/redux-7.png)
+### PROGRESSION 3 | GET N STORE
+In this progression, the data what you fetch in the form should be sent to redux store. Fetch the data from the store and display it back in `Display` Component. 
 
-### PROGRESSION 1 | PARENT COMPONENT
+**Do not use hooks or this.state**.
 
+Please refer the output below:
+![Image description](https://i1.faceprep.in/ProGrad/redux-2.png)
 
+### PROGRESSION 4 | DELETE 
+In this iteration provide an option to delete 
 
 ## Submission
 
